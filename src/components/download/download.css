@@ -1,0 +1,11 @@
+.download-img {
+    width: 30px;
+    height: 30px;
+    fill: white;
+}
+
+.download-btn {
+    padding: 20px;
+    border-radius: 50px;
+    background-color: rgb(11, 96, 11);
+}
