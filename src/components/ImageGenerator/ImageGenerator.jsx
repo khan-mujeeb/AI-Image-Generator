@@ -39,6 +39,8 @@ const ImageGenerator = () => {
             }
         );
 
+        
+        console.log("api " + process.env.REACT_APP_API_KEY)
         let data = await response.json();
 
         let data_array = data.stabilityai.items[0].image_resource_url;

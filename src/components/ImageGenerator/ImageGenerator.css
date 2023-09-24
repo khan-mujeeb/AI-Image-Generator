@@ -105,3 +105,32 @@ img {
     visibility: hidden; 
     transition: 0.0s;
 }
+
+
+/* Mobile screen media query */
+@media (max-width: 768px) {
+    .component-body {
+        flex-direction: column;
+    }
+    .header {
+        font-size: 2rem; /* Adjust the font size for mobile */
+    }
+    .image,
+    img {
+        height: 200px; /* Adjust the image height for mobile */
+        width: 200px; /* Adjust the image width for mobile */
+    }
+    .search-box {
+        width: 90%; /* Adjust the search box width for mobile */
+    }
+    .search-box input {
+        font-size: 0.9rem; /* Adjust the input font size for mobile */
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .generate-btn {
+        width: 120px; /* Adjust the button width for mobile */
+        height: 50px; /* Adjust the button height for mobile */
+        font-size: 0.9rem; /* Adjust the button font size for mobile */
+    }
+}
