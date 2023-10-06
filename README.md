@@ -25,5 +25,12 @@ Turn words into stunning AI-generated Art and drawings instantly. Enter a prompt
 
 </div>
 
+## Features
+- Create AI generated Image with a single click
+- Download your hd image for free
+
+## ⚙ How it works ?!
+User need to enter a prompt, AI image generator automatically creates a ai art 
+
 
 
