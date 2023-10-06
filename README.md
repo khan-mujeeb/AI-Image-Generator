@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# AI Image Generator
 Turn words into stunning AI-generated Art and drawings instantly. Enter a prompt- AI art generator brings your ideas to life!
 
 ## TechStacks
